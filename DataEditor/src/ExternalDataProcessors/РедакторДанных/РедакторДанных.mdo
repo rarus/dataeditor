@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="408ae352-373d-4e70-ba95-eaa15c458e7b">
+  <producedTypes>
+    <objectType typeId="d3e8fa79-a366-40d9-9549-eb07375fc67a" valueTypeId="88cb5c73-3f8a-4536-8d76-1daa3f402f1f"/>
+  </producedTypes>
+  <name>РедакторДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Редактор данных</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="e53f5600-db3c-4cb5-8c56-bce58125b22a"/>
+  <defaultForm>ExternalDataProcessor.РедакторДанных.Form.НавигацияПоОбъектам</defaultForm>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="89aec71b-8a5a-43c0-bfca-d6d3d29348bc">
+    <name>НавигацияПоОбъектам</name>
+    <synonym>
+      <key>ru</key>
+      <value>Навигация по объектам</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="9ee63e54-bc78-4cd5-90df-846739ab3a1e">
+    <name>РедакторОбъекта</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактор объекта</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="57aa213f-0741-433c-86db-4d483b410d4c">
+    <name>НастройкиРедактора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки редактора</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="b1041e94-5136-431c-b66f-a2e6fe5542c3">
+    <name>ГенераторТекстаЗапроса</name>
+    <synonym>
+      <key>ru</key>
+      <value>Генератор текста запроса</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="37b527c0-2f8a-42d4-b98f-0860ffc8a19a">
+    <name>РедакторИдентификатора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактор идентификатора</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="e8154a75-efa4-4b3b-8fd5-a799f8a24fe5">
+    <name>НастройкаВидимостиТаблиц</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройка видимости таблиц</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="47e1065b-e44b-4b2d-b3ec-62cb7b475634">
+    <name>РедакторХранилищаЗначений</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактор хранилища значений</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="89d642ba-f6b9-48f3-9e19-294e2702af1a">
+    <name>ОПрограмме</name>
+    <synonym>
+      <key>ru</key>
+      <value>О программе</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="bff23f63-0783-4b36-8783-cf5591c51fa6">
+    <name>ВыполнениеПроизвольногоКода</name>
+    <synonym>
+      <key>ru</key>
+      <value>Выполнение произвольного кода</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="77bd113c-6380-41b0-8095-a44229379334">
+    <name>ДиалогСохраненияОбъекта</name>
+    <synonym>
+      <key>ru</key>
+      <value>Диалог сохранения объекта</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
