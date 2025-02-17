@@ -1,4 +1,6 @@
-[![GitHub License](https://img.shields.io/github/license/rarus/dataeditor)](https://github.com/rarus/dataeditor/tree/main?tab=CC-BY-SA-4.0-1-ov-file#CC-BY-SA-4.0-1-ov-file)
+[![Enterprise version](https://img.shields.io/badge/1С%3AПредприятие-8.3.22.2557-blue)](https://releases.1c.ru/version_files?nick=Platform83&ver=8.3.22.2557)
+[![EDT version](https://img.shields.io/badge/EDT-2024.1.3-blue)](https://releases.1c.ru/version_files?nick=DevelopmentTools10&ver=2024.1.3)
+[![GitHub License](https://img.shields.io/github/license/rarus/dataeditor)](https://github.com/rarus/dataeditor/blob/main/LICENSE)
 [![Download Badge](https://img.shields.io/badge/download-DataEditor.epf-blue)](https://github.com/rarus/dataeditor/releases/latest/download/DataEditor.epf)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rarus/dataeditor/total)](https://github.com/rarus/dataeditor/releases)
 [![GitHub watchers](https://img.shields.io/github/watchers/rarus/dataeditor)](https://github.com/rarus/dataeditor)
@@ -12,7 +14,7 @@
 
 Может принести пользу как администраторам, эксплуатирующим информационные базы, так и разработчикам конфигураций для анализа поведения программы.
 
-Инструмент разработан компанией [1C-Рарус](https://rarus.ru/) в рамках проекта "Инструменты 1С-Рарус".
+Инструмент разработан компанией [1C-Рарус](https://rarus.ru/) в рамках проекта "[Инструменты 1С-Рарус](https://rarus.ru/instruments/)".
 
 Актуальная версия инструмента доступна в разделе [Релизы](https://github.com/rarus/dataeditor/releases/latest).
 
@@ -92,13 +94,13 @@
 Предполагается работа на всех видах клиента 1С:Предприятие и любых операционных системах.
 
 Для разработки и тестирования использовались:
-- Платформа 1С:Предприятие: 8.3.22.2239
-- 1C:Enterprise Development Tools: 2023.1.2
+- Платформа 1С:Предприятие: 8.3.22.2557
+- 1C:Enterprise Development Tools: 2024.1.3
 
 
 ## Лицензия
 
-Эта программа и сопроводительные материалы предоставляются в соответствии с условиями лицензии Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Текст лицензии доступен по ссылке: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Эта программа и сопроводительные материалы предоставляются в соответствии с условиями лицензии Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Текст лицензии доступен по ссылке: https://creativecommons.org/licenses/by-sa/4.0/
 
 
 ## Участие в проекте

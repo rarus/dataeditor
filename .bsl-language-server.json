@@ -22,7 +22,7 @@
 	  "IfConditionComplexity": {
         "maxIfConditionComplexity": 10
       },
-	  "DuplicateStringLiteral": {
+      "DuplicateStringLiteral": {
         "allowedNumberCopies": 20,
         "analyzeFile": false,
         "caseSensitive": false,

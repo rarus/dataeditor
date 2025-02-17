@@ -320,7 +320,7 @@
         <id>56</id>
         <title>
           <key>ru</key>
-          <value>Attribution 4.0 International (CC BY 4.0)</value>
+          <value>Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -369,7 +369,7 @@
         <id>82</id>
         <title>
           <key>ru</key>
-          <value>https://creativecommons.org/licenses/by/4.0/legalcode</value>
+          <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -841,8 +841,9 @@
         <id>88</id>
         <title>
           <key>ru</key>
-          <value>https://rarus.ru/</value>
+          <value>https://rarus.ru/instruments/</value>
         </title>
+        <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
           <common>true</common>

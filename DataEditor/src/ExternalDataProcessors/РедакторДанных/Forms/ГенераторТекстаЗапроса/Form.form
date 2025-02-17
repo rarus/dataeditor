@@ -448,6 +448,10 @@
     <autoFill>true</autoFill>
   </autoCommandBar>
   <handlers>
+    <event>OnOpen</event>
+    <name>ПриОткрытии</name>
+  </handlers>
+  <handlers>
     <event>OnCreateAtServer</event>
     <name>ПриСозданииНаСервере</name>
   </handlers>
@@ -537,10 +541,10 @@
     </edit>
   </attributes>
   <attributes>
-    <name>Объект</name>
+    <name>ТекущийОбъект</name>
     <title>
       <key>ru</key>
-      <value>Объект</value>
+      <value>Текущий объект</value>
     </title>
     <id>6</id>
     <valueType/>
@@ -644,6 +648,20 @@
       <common>true</common>
     </edit>
   </attributes>
+  <attributes>
+    <name>Объект</name>
+    <id>13</id>
+    <valueType>
+      <types>ExternalDataProcessor.РедакторДанных</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+    <main>true</main>
+  </attributes>
   <formCommands>
     <name>КопироватьВБуфер</name>
     <title>
@@ -680,4 +698,5 @@
     <navigationPanel/>
     <commandBar/>
   </commandInterface>
+  <extInfo xsi:type="form:ObjectFormExtInfo"/>
 </form:Form>

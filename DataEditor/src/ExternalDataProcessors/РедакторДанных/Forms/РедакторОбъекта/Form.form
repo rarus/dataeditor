@@ -892,7 +892,7 @@
                 </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
-              <source>СвойстваОбъектаСтрокаПоиска</source>
+              <source>СвойстваОбъекта</source>
               <extInfo xsi:type="form:SearchStringAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>
@@ -931,7 +931,7 @@
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>ViewStatusAddition</type>
-              <source>СвойстваОбъектаСостояниеПросмотра</source>
+              <source>СвойстваОбъекта</source>
               <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>
@@ -970,7 +970,7 @@
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>SearchControlAddition</type>
-              <source>СвойстваОбъектаУправлениеПоиском</source>
+              <source>СвойстваОбъекта</source>
               <extInfo xsi:type="form:SearchControlAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>
@@ -1417,7 +1417,7 @@
                 </userVisible>
                 <autoFill>true</autoFill>
               </contextMenu>
-              <source>ПланыОбменаОбъектаСтрокаПоиска</source>
+              <source>ПланыОбменаОбъекта</source>
               <extInfo xsi:type="form:SearchStringAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>
@@ -1456,7 +1456,7 @@
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>ViewStatusAddition</type>
-              <source>ПланыОбменаОбъектаСостояниеПросмотра</source>
+              <source>ПланыОбменаОбъекта</source>
               <extInfo xsi:type="form:ViewStatusAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>
@@ -1495,7 +1495,7 @@
                 <autoFill>true</autoFill>
               </contextMenu>
               <type>SearchControlAddition</type>
-              <source>ПланыОбменаОбъектаУправлениеПоиском</source>
+              <source>ПланыОбменаОбъекта</source>
               <extInfo xsi:type="form:SearchControlAdditionExtInfo">
                 <autoMaxWidth>true</autoMaxWidth>
               </extInfo>
@@ -1685,6 +1685,10 @@
     <name>ОбработкаВыбора</name>
   </handlers>
   <handlers>
+    <event>NotificationProcessing</event>
+    <name>ОбработкаОповещения</name>
+  </handlers>
+  <handlers>
     <event>OnOpen</event>
     <name>ПриОткрытии</name>
   </handlers>
@@ -1695,10 +1699,6 @@
   <handlers>
     <event>OnCreateAtServer</event>
     <name>ПриСозданииНаСервере</name>
-  </handlers>
-  <handlers>
-    <event>NotificationProcessing</event>
-    <name>ОбработкаОповещения</name>
   </handlers>
   <handlers>
     <event>OnClose</event>
@@ -3039,6 +3039,36 @@
         <nonNegative>true</nonNegative>
       </numberQualifiers>
     </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ЗначениеКопирования</name>
+    <title>
+      <key>ru</key>
+      <value>Значение копирования</value>
+    </title>
+    <id>2</id>
+    <valueType/>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ПиктограммыМетаданных</name>
+    <title>
+      <key>ru</key>
+      <value>Пиктограммы метаданных</value>
+    </title>
+    <id>96</id>
+    <valueType/>
     <view>
       <common>true</common>
     </view>
