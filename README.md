@@ -1,5 +1,5 @@
-[![Enterprise version](https://img.shields.io/badge/1С%3AПредприятие-8.3.22.2557-blue)](https://releases.1c.ru/version_files?nick=Platform83&ver=8.3.22.2557)
-[![EDT version](https://img.shields.io/badge/EDT-2024.1.3-blue)](https://releases.1c.ru/version_files?nick=DevelopmentTools10&ver=2024.1.3)
+[![Enterprise version](https://img.shields.io/badge/1С%3AПредприятие-8.3.27.1936-blue)](https://releases.1c.ru/version_files?nick=Platform83&ver=8.3.27.1936)
+[![EDT version](https://img.shields.io/badge/EDT-2025.1.5-blue)](https://releases.1c.ru/version_files?nick=DevelopmentTools10&ver=2025.1.5)
 [![GitHub License](https://img.shields.io/github/license/rarus/dataeditor)](https://github.com/rarus/dataeditor/blob/main/LICENSE)
 [![Download Badge](https://img.shields.io/badge/download-DataEditor.epf-blue)](https://github.com/rarus/dataeditor/releases/latest/download/DataEditor.epf)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rarus/dataeditor/total)](https://github.com/rarus/dataeditor/releases)
@@ -94,8 +94,8 @@
 Предполагается работа на всех видах клиента 1С:Предприятие и любых операционных системах.
 
 Для разработки и тестирования использовались:
-- Платформа 1С:Предприятие: 8.3.22.2557
-- 1C:Enterprise Development Tools: 2024.1.3
+- Платформа 1С:Предприятие: 8.3.27.1936
+- 1C:Enterprise Development Tools: 2025.1.5
 
 
 ## Лицензия

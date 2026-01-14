@@ -16,10 +16,13 @@
         "minWordLength": 3,
         "userWordsToIgnore": "Метаданного,Метаданное,субконто"
       },
+      "UsingServiceTag": {
+        "serviceTags": "//@skip-check"
+      },
       "NestedStatements": {
         "maxAllowedLevel": 10
       },
-	  "IfConditionComplexity": {
+	    "IfConditionComplexity": {
         "maxIfConditionComplexity": 10
       },
       "DuplicateStringLiteral": {

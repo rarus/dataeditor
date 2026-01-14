@@ -105,4 +105,45 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <forms uuid="f34fa081-fe35-47f0-9250-6caaa13f517b">
+    <name>ОтборОбъектовПоПодсистемам</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отбор объектов по подсистемам</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="cc6f7a99-9a72-4087-bf26-cb171083973b">
+    <name>СтандартныйРеквизитКартинка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Стандартный реквизит картинка</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="bea1ec79-cc81-4313-b204-fa61d234b830">
+    <name>ОбщийРеквизитКартинка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Общий реквизит картинка</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="4c8447ca-1fd1-4d1c-aaad-f6f58122e8aa">
+    <name>ПодсистемаКартинка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Подсистема картинка</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="3d382e03-e622-42a4-bb50-278deb66fb3c">
+    <name>КонфигурацияКартинка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Конфигурация картинка</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
